@@ -11,7 +11,7 @@ y3 = []
 x4 = []
 y4 = []
 
-with open('pyst.csv') as f:
+with open('data.csv') as f:
     reader = csv.reader(f)
     flag = 0
     flag = 0
